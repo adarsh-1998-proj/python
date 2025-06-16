@@ -25,7 +25,7 @@ if choice1 == "b":
                     '(C) 123456\n').lower()
     if choice2 == "b":
         # Level 3: Encryption Puzzle
-        choice3 = input('Decode this: R0x1YyEh (Hint: Base64)\n').lower()
+        choice3 = input('Decode this: SGFjayEh (Hint: Base64)\n').lower()
         if choice3 == "hack!!":
             print("Access granted! You found the digital treasure: ₿1,000,000!")
         else:
